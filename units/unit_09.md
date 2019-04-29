@@ -346,7 +346,7 @@ number of lines (N) but with an associativity of 2, so the modulo is N/2 for
 mapping addresses to indexes.
 
 ```
-index = address % (N/associtivity)
+index = address % (N/associativity)
 ```
 
 Let's again work through the example from before performing reads on the
